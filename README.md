@@ -1,1 +1,6 @@
-<h3 align="center"> Raunak ranjan</h3>
+
+
+![](http://raunak.atwebpages.com/Icon/self.svg#gh-light-mode-only)
+
+# Raunak ranjan
+
